@@ -6,7 +6,6 @@ import Contact from './pages/Contact';
 import Events from './pages/Events';
 import About from './pages/About';
 import Lessons from './pages/Lessons';
-import Listen from './pages/Listen';
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
         <Route path="/Contact" element={<Contact />} />
         <Route path="/Events" element={<Events />} />
         <Route path="/Lessons" element={<Lessons />} />
-        <Route path="/Listen" element={<Listen />} />
         <Route path="/About" element={<About />} />
       </Routes>
       <Footer />

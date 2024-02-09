@@ -21,7 +21,7 @@ export default function Footer() {
                         </div> */}
                         <div className="md:pl-6 flex">
                             <img className="max-h-10" src={srfLogo} alt="Self Realization Fellowship Logo" />
-                            <img className="max-h-10" src={selfRealizationLogo} alt="Self Realization Fellowship Logo" />
+                            <img className="max-h-10 pr-10 " src={selfRealizationLogo} alt="Self Realization Fellowship Logo" />
                         </div>
                         <p className='text-amber-600 md:pl-16  text-xl'>Orlando Meditation Group</p>
 
@@ -52,6 +52,12 @@ export default function Footer() {
                             </div>
 
 
+                        </div>
+                        <div className="flex flex-col md:flex-row items-center justify-center mx-auto space-x-4 md:justify-end md:mx-0 md:pr-10">
+                          <a href='https://yogananda.org/contact-us-free-literature' target="_blank"><p>Free Literature</p></a>
+                          <a href='https://yogananda.org/frequently-asked-questions' target="_blank"><p>FAQ</p></a>
+                          <a href='https://yogananda.org/lessons' target="_blank"><p>Apply for Lessons</p></a>
+                          <a href='https://yogananda.org/locations-map' target="_blank"><p>Find a Location</p></a>
                         </div>
                         {/* <!-- copy --> */}
                         <div className="text-xs">

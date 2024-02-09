@@ -186,7 +186,7 @@ export default function Home() {
                     <img src={meditators} className='pr-10 pt-10 md:pt-0 md:pr-0 md:w-9/12' />
                 </div>
                 <div className='flex-col md:-ml-60'>
-                    <h2 className='text-amber-600 pb-10 md:mt-28'>Try a Beginners Meditation</h2>
+                    <h2 className='text-amber-600 pb-10 pr-10 md:mt-28'>Try a Beginners Meditation</h2>
                     <p className='pb-5 pr-10  text-xl'>Discover the peace and divine consciousness that meditation brings</p>
                     <div className='group'>
                         <a href='https://yogananda.org/a-beginners-meditation' target='_blank' className='text-amber-600 text-xl'>Get Started</a>
