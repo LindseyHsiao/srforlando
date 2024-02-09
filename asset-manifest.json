@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/srforlando/static/css/main.1626760c.css",
+    "main.js": "/srforlando/static/js/main.f7cace37.js",
+    "static/js/787.aab657c0.chunk.js": "/srforlando/static/js/787.aab657c0.chunk.js",
+    "static/media/srf-home.jpeg": "/srforlando/static/media/srf-home.5b12cb5421a2bc15a22d.jpeg",
+    "static/media/sheet-music.jpg": "/srforlando/static/media/sheet-music.8cad8f0609210ab9a2f4.jpg",
+    "static/media/PY-standard.jpeg": "/srforlando/static/media/PY-standard.47a561416f825fc9d651.jpeg",
+    "static/media/meditators.jpg": "/srforlando/static/media/meditators.a41150df7a2a8b0c1c52.jpg",
+    "static/media/Archer Medium Italic.otf": "/srforlando/static/media/Archer Medium Italic.fb008c11218d4db89cc5.otf",
+    "static/media/openLotus.jpeg": "/srforlando/static/media/openLotus.ca60b1768d4860784d94.jpeg",
+    "static/media/Updated_logo.png": "/srforlando/static/media/Updated_logo.561ac722f3148e630835.png",
+    "static/media/lotus-5_orange_light.svg": "/srforlando/static/media/lotus-5_orange_light.b532cfe8715e38a33ebf1417bd2e81b3.svg",
+    "static/media/lotus-6_blue_light.svg": "/srforlando/static/media/lotus-6_blue_light.0ec5c2f2dd9f6b616454662377a03ae4.svg",
+    "static/media/full-logo-white.png": "/srforlando/static/media/full-logo-white.2d1347af7fd77c5a3b8a.png",
+    "static/media/srf-wordmark-navy.png": "/srforlando/static/media/srf-wordmark-navy.5725000f6bfe36409ec3.png",
+    "static/media/logo.png": "/srforlando/static/media/logo.9048789f1aca6ba2cea2.png",
+    "static/media/youtube-logo.svg": "/srforlando/static/media/youtube-logo.c0e865099ffe3b9dec5f71859ee38587.svg",
+    "static/media/icon-instagram.svg": "/srforlando/static/media/icon-instagram.b3de33d5fa5b1f4a84c0dc1e4a09b68f.svg",
+    "index.html": "/srforlando/index.html",
+    "static/media/icon-facebook.svg": "/srforlando/static/media/icon-facebook.eb06fb21025cca9005cd17d7cb43d5d3.svg",
+    "main.1626760c.css.map": "/srforlando/static/css/main.1626760c.css.map",
+    "main.f7cace37.js.map": "/srforlando/static/js/main.f7cace37.js.map",
+    "787.aab657c0.chunk.js.map": "/srforlando/static/js/787.aab657c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1626760c.css",
+    "static/js/main.f7cace37.js"
+  ]
+}
